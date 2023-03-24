@@ -1,0 +1,25 @@
+Issue Type,Issue key,Issue id,Parent id,Summary,Assignee,Reporter,Status,Created,Updated
+Task,KAP-49,10049,,Typy transakcji - kategorie,Aleksandra Krzysztof,Aleksandra Krzysztof,Done,08/mar/23 11:14,14/mar/23 19:57
+Task,KAP-48,10048,,Paginator- miesiące,Aleksandra Krzysztof,Aleksandra Krzysztof,Done,08/mar/23 11:13,14/mar/23 19:57
+Task,KAP-41,10041,,"Button ""Wyloguj się""",Aleksandra Krzysztof,Aleksandra Krzysztof,Done,03/mar/23 15:59,14/mar/23 19:57
+Task,KAP-40,10040,,Logo- klikalność,Aleksandra Krzysztof,Aleksandra Krzysztof,Done,03/mar/23 15:47,14/mar/23 19:57
+Task,KAP-39,10039,,Nagłówek-Zgodność rozkładu interfejsu z specyfikacją,Aleksandra Krzysztof,Aleksandra Krzysztof,Done,03/mar/23 15:47,14/mar/23 19:57
+Task,KAP-38,10038,,Paginator - Income/Expenses,Aleksandra Krzysztof,Aleksandra Krzysztof,Done,03/mar/23 13:47,14/mar/23 19:57
+Task,KAP-19,10019,,Widok strony,Aleksandra Krzysztof,Aleksandra Krzysztof,Done,27/Feb/23 9:46 AM,14/mar/23 16:31
+Task,KAP-18,10018,,Raporty,Aleksandra Krzysztof,Aleksandra Krzysztof,Done,27/Feb/23 9:45 AM,14/mar/23 16:31
+Task,KAP-17,10017,,Expenses i Income - możliwość przełączania,Aleksandra Krzysztof,Aleksandra Krzysztof,Done,27/Feb/23 9:45 AM,14/mar/23 16:31
+Task,KAP-16,10016,,"Dodawanie,Usuwanie oraz edytowanie transakcji ",Aleksandra Krzysztof,Aleksandra Krzysztof,Done,27/Feb/23 9:44 AM,14/mar/23 16:31
+Task,KAP-15,10015,,"Tworzenie transakcji (Walidacja pola ""Description"",opcji wyboru kategorii oraz wprowadzania kwoty ",Aleksandra Krzysztof,Aleksandra Krzysztof,Done,27/Feb/23 9:43 AM,14/mar/23 16:31
+Task,KAP-14,10014,,Data w formularzu dodawania transakcji,Aleksandra Krzysztof,Aleksandra Krzysztof,Done,27/Feb/23 9:42 AM,14/mar/23 16:31
+Task,KAP-13,10013,,"Dodawanie wartości w polu ""Saldo"" za pomocą INPUT ",Aleksandra Krzysztof,Aleksandra Krzysztof,Done,27/Feb/23 9:42 AM,14/mar/23 16:31
+Task,KAP-12,10012,,Poprawny komunikat powitalny podczas pierwszego wejścia do aplikacji,Aleksandra Krzysztof,Aleksandra Krzysztof,Done,27/Feb/23 9:41 AM,14/mar/23 16:31
+Task,KAP-8,10008,,walidacja pola hasła w formularzu,Aleksandra Krzysztof,Aleksandra Krzysztof,Done,27/Feb/23 9:34 AM,14/mar/23 16:31
+Task,KAP-7,10007,,Walidacja pola e-mail w formularzu,Aleksandra Krzysztof,Aleksandra Krzysztof,Done,27/Feb/23 9:34 AM,14/mar/23 16:31
+Task,KAP-6,10006,,Logowanie użytkownika,Aleksandra Krzysztof,Aleksandra Krzysztof,Done,27/Feb/23 9:33 AM,14/mar/23 16:31
+Task,KAP-5,10005,,Rejestracja użytkownika,Aleksandra Krzysztof,Aleksandra Krzysztof,Done,27/Feb/23 9:32 AM,15/mar/23 14:05
+Subtask,KAP-51,10051,,Wyświetlanie się transakcji z jednej kategorii,Aleksandra Krzysztof,Aleksandra Krzysztof,Done,08/mar/23 11:26,24/mar/23 17:39
+Subtask,KAP-50,10050,,Typy transakcji - kategorie w danym miesiące,Aleksandra Krzysztof,Aleksandra Krzysztof,Done,08/mar/23 11:25,24/mar/23 17:39
+Subtask,KAP-46,10046,,Przycisk powrotu do strony głównej,Aleksandra Krzysztof,Aleksandra Krzysztof,Done,08/mar/23 11:12,24/mar/23 17:41
+Subtask,KAP-28,10028,10005,Rejestracja użytkownika istniejącego w bazie,Aleksandra Krzysztof,Aleksandra Krzysztof,Done,27/Feb/23 2:30 PM,15/mar/23 14:02
+Subtask,KAP-25,10025,10005,"Walidacja buttonu ""REJESTRACJA""",Aleksandra Krzysztof,Aleksandra Krzysztof,Done,27/Feb/23 2:03 PM,15/mar/23 14:02
+Subtask,KAP-20,10020,10005,Autoryzacja Google,Aleksandra Krzysztof,Aleksandra Krzysztof,Done,27/Feb/23 9:54 AM,15/mar/23 14:02

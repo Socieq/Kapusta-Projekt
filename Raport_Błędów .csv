@@ -1,0 +1,9 @@
+Issue Type,Issue key,Issue id,Summary,Assignee,Reporter,Status,Created,Updated
+Bug,KAP-43,10043,Komunikat powitalny przy każdorazowym wejściu,Aleksandra Krzysztof,Aleksandra Krzysztof,Done,03/mar/23 16:28,14/mar/23 19:57
+Bug,KAP-65,10065,Brak przycisku Google w oknie rejestracji/ logowania,Aleksandra Krzysztof,Aleksandra Krzysztof,Done,10/mar/23 16:56,14/mar/23 19:59
+Bug,KAP-66,10066,Brak komunikatu o niepoprawnym mailu,Aleksandra Krzysztof,Aleksandra Krzysztof,Done,10/mar/23 18:56,14/mar/23 19:59
+Bug,KAP-67,10067,Mail spełniający warunki nie zostaje przyjęty,Aleksandra Krzysztof,Aleksandra Krzysztof,Done,10/mar/23 19:07,14/mar/23 19:59
+Bug,KAP-68,10068,Istnieje możliwość wyboru przyszłej daty przy tworzeniu transakcji,Aleksandra Krzysztof,Aleksandra Krzysztof,Done,10/mar/23 19:40,14/mar/23 19:59
+Bug,KAP-69,10069,"Po wpisaniu i zaakceptowaniu danych transakcji pojawiają się komunikaty pod polami do wpisania ""This field is required"" ",Aleksandra Krzysztof,Aleksandra Krzysztof,Done,10/mar/23 19:46,14/mar/23 19:59
+Bug,KAP-70,10070,"Błędna nazwa przycisku ""INPUT"" zatwierdzającego kwotę salda ",Aleksandra Krzysztof,Aleksandra Krzysztof,Done,14/mar/23 12:48,14/mar/23 19:59
+Bug,KAP-71,10071,błędna weryfikacja zawartości pola description,Aleksandra Krzysztof,Aleksandra Krzysztof,Done,14/mar/23 15:08,14/mar/23 19:59
