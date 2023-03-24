@@ -6,7 +6,7 @@ Testy strony Kapusta będą obejmować weryfikację poprawności działania jej 
 
 Podczas wykonywania projektu korzystałam m.in. z poniższych narzędzi:
 
-Jira
-QAlityPlus
-Figma
+- Jira
+- QAlityPlus
+- Figma
 
